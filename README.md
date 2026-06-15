@@ -4,7 +4,7 @@ Sneaker Raffle
 Cuando una tienda de zapatillas recibe una remesa de sneakers de coleccion organiza una rifa entre las personas usuarias registradas para sortear el derecho a comprar la zapatilla.
 
 Cada participante introduce sus datos personales para el envío del paquete y autoriza un cargo en su sistema de pago preferido para que, si resulta agraciada, la tienda ejecute el cobro pendiente por el precio de la zapatilla.
-  
+
 Si la participante no resulta elegida, la tienda solicita la anulación del cobro y el sistema de pago elimina el cargo en la cuenta cliente.
 
 Sólo se permite una participación por persona, por lo que la tienda se  encarga de implementar
@@ -64,4 +64,6 @@ Las historias de usuario están enunciadas en el script principal `Stockx.java`
  3. Realiza un `push` al repo remoto en GitHub **SOLO cuando hayas terminado el proyecto**.
  3. Si quieres, si vas a dormir mejor, desde Eclipse /Netbeans /IntelIJ exporta el proyecto a un fichero. En VSCode, comprime en un ZIP la carpeta del proyecto. Envíame el archivo ZIP por correo electrónico. **No se admiten ficheros .rar**.
 
+la rama uml hay que entregarla obligatoriamente
 
+de que proyecto se coje código
